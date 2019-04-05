@@ -1,0 +1,22 @@
+[
+    {
+        "nom":"sandy1",
+        "prenom":"arivelo",
+        "image" :"/assets/lol.jpeg"
+    },
+    {
+        "nom":"fab1",
+        "prenom":"ricien",
+        "image" :"/assets/test.jpg"
+    },
+    {
+        "nom":"sitraka1",
+        "prenom":"ambinitsoa",
+        "image" :"/assets/4.jpeg"
+    },
+    {
+        "nom":"sitra1",
+        "prenom":"ambinitsoa",
+        "image" :"/assets/3.jpeg"
+    }
+]
